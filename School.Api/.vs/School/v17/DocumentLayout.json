@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F2DA3E-3B67-470D-855E-6D90DEF61EB1}|School.Api\\School.Api.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F2DA3E-3B67-470D-855E-6D90DEF61EB1}|School.Api\\School.Api.csproj|solutionrelative:school.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F2DA3E-3B67-470D-855E-6D90DEF61EB1}|School.Api\\School.Api.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26F2DA3E-3B67-470D-855E-6D90DEF61EB1}|School.Api\\School.Api.csproj|solutionrelative:school.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|solutionrelative:school.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F2DA3E-3B67-470D-855E-6D90DEF61EB1}|School.Api\\School.Api.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F2DA3E-3B67-470D-855E-6D90DEF61EB1}|School.Api\\School.Api.csproj|solutionrelative:school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.application\\services\\impl\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|solutionrelative:school.application\\services\\impl\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470F64B1-ADA3-43B1-9D93-A1918F471749}|School.Infrastructure\\School.Infrastructure.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.infrastructure\\validatios\\studentvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470F64B1-ADA3-43B1-9D93-A1918F471749}|School.Infrastructure\\School.Infrastructure.csproj|solutionrelative:school.infrastructure\\validatios\\studentvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.application\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|solutionrelative:school.application\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.application\\dtos\\getallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|solutionrelative:school.application\\dtos\\getallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470F64B1-ADA3-43B1-9D93-A1918F471749}|School.Infrastructure\\School.Infrastructure.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470F64B1-ADA3-43B1-9D93-A1918F471749}|School.Infrastructure\\School.Infrastructure.csproj|solutionrelative:school.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.application\\dtos\\editstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|solutionrelative:school.application\\dtos\\editstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.application\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D619A56C-D3A3-4603-A037-02D4880A4BE0}|School.Application\\School.Application.csproj|solutionrelative:school.application\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\enums\\contracttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\enums\\contracttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|c:\\users\\asus\\documents\\prueba t\u00E9cnica\\school.api\\school.domain\\enums\\studentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BE5B8E-C083-487E-88B9-239CBAE4CA53}|School.Domain\\School.Domain.csproj|solutionrelative:school.domain\\enums\\studentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Services\\Impl\\StudentServices.cs",
+              "RelativeDocumentMoniker": "School.Application\\Services\\Impl\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Services\\Impl\\StudentServices.cs",
+              "RelativeToolTip": "School.Application\\Services\\Impl\\StudentServices.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAawCsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:04:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "School.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "School.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAEwCgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:51:53.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentValidations.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Infrastructure\\Validatios\\StudentValidations.cs",
+              "RelativeDocumentMoniker": "School.Infrastructure\\Validatios\\StudentValidations.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Infrastructure\\Validatios\\StudentValidations.cs",
+              "RelativeToolTip": "School.Infrastructure\\Validatios\\StudentValidations.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:19:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "School.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "School.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwEUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:51:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Services\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "School.Application\\Services\\IStudentServices.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Services\\IStudentServices.cs",
+              "RelativeToolTip": "School.Application\\Services\\IStudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:15:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Repository\\IRepository.cs",
+              "RelativeToolTip": "School.Domain\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:50:17.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "School.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:18:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "School.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:35:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "School.Domain\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:29:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "School.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Api\\appsettings.json",
+              "RelativeToolTip": "School.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T01:48:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\LoginDTo.cs",
+              "RelativeDocumentMoniker": "School.Application\\Dtos\\LoginDTo.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\LoginDTo.cs",
+              "RelativeToolTip": "School.Application\\Dtos\\LoginDTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:35:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Api\\Program.cs",
+              "RelativeDocumentMoniker": "School.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Api\\Program.cs",
+              "RelativeToolTip": "School.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:53:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\GetAllViewModel.cs",
+              "RelativeDocumentMoniker": "School.Application\\Dtos\\GetAllViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\GetAllViewModel.cs",
+              "RelativeToolTip": "School.Application\\Dtos\\GetAllViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:10:26.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "School.Application\\Dtos\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\CreateStudentDto.cs",
+              "RelativeToolTip": "School.Application\\Dtos\\CreateStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:33:49.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\EditStudentDto.cs",
+              "RelativeDocumentMoniker": "School.Application\\Dtos\\EditStudentDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Application\\Dtos\\EditStudentDto.cs",
+              "RelativeToolTip": "School.Application\\Dtos\\EditStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:34:26.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "School.Domain\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:14:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Grade.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Entities\\Grade.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Grade.cs",
+              "RelativeToolTip": "School.Domain\\Entities\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:17:55.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "School.Domain\\Entities\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:15:16.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentState.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Enums\\StudentState.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Enums\\StudentState.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Enums\\StudentState.cs",
+              "RelativeToolTip": "School.Domain\\Enums\\StudentState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:25:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContractType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Enums\\ContractType.cs",
+              "RelativeDocumentMoniker": "School.Domain\\Enums\\ContractType.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Prueba T\u00E9cnica\\School.Api\\School.Domain\\Enums\\ContractType.cs",
+              "RelativeToolTip": "School.Domain\\Enums\\ContractType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:28:21.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
